@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "KenyonDevLabs",
   "resources": {
-    "hash": "sha256-qGsxTuYvqRveZ0VAJdE5gqG5vXpvt5Hx5on05HY9kkY=",
+    "hash": "sha256-ZHsauWY8lPkcB76+b8o27CLjqu0W8YxFJBjD45Z0Sco=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-kl1kEnJ/0kgP6CiBXxh0TGGx8OxEjqiOqEqYEpUL7HE="
     },
@@ -58,7 +58,7 @@
       "System.Private.Uri.wasm": "sha256-Qk6iCOhheECg6XCcBsTldqDIJlYsopKbBjFi5fDZik0=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-xLQroTGu1oyCD1Jg25FsGzxIDrV6SHeMPI9tH4768zU=",
       "System.Runtime.InteropServices.wasm": "sha256-GQ4OlFR5qCEZisMRgjwY59LnZdHghZLWN4qJSHgc53w=",
-      "System.Runtime.wasm": "sha256-T1YaERRvf49hTH+FgjqEMDd1NQqxLG3Lqb4uGGO6ZZA=",
+      "System.Runtime.wasm": "sha256-Q9pByicV8LiF7F0I2EguP2OUw5ghzYubu+J1NT+HD+k=",
       "System.Security.Claims.wasm": "sha256-WR7uRqdYJ1MiLSVrqRt6t0gIxLtAa95FiAgQ/i4J5DA=",
       "System.Security.Cryptography.wasm": "sha256-FuJ0mTRxU28tVSTp+x0dK0Ik7JFbfeZ48jLXwkNs2ZY=",
       "System.Text.Encodings.Web.wasm": "sha256-ScEJ5ZO7MMgiyb6oA1RL5PsmfC0BEUM+ggZGn4XeF2w=",
@@ -67,7 +67,7 @@
       "System.Threading.Tasks.Extensions.wasm": "sha256-Gd1qxXivz5MpsAX+TBr8vugvZOcbJp4fgOCd8pjkP+o=",
       "netstandard.wasm": "sha256-Olm3WHQsUSBfbcde5TI/ttI1Hu2pDvnGXlYp+mwxBck=",
       "System.Private.CoreLib.wasm": "sha256-xyQwCBKToCdNFtO+STGsxsg+NHLg9QzUEKaY2JnhD4s=",
-      "KenyonDevLabs.wasm": "sha256-mGzfZgHhw+aH7WNXME6LZzoGaigrHH/YxW2GdhR+FA4="
+      "KenyonDevLabs.wasm": "sha256-Qd0FSkORBrLCJXSyYVWmCqjqiKuDpoJHfTjjxjEBd0E="
     }
   },
   "cacheBootResources": true,
